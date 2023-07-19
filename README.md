@@ -18,4 +18,4 @@
 - Twitter: [@kokushing](https://twitter.com/kokushing)
 - Qiita: [kokushin](https://qiita.com/kokushin)
 - Zenn: [kokushin](https://zenn.dev/kokushing)
-- note: [qrsk](https://note.com/qrsk)
+- note: [kokushing](https://note.com/kokushing)
